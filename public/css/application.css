@@ -19,3 +19,8 @@ body {
 h2 {
 font-family: 'Vollkorn SC', serif;
 }
+
+.hidden {
+    display: none;
+}
+
